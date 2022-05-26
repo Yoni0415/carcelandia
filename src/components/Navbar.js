@@ -41,7 +41,7 @@ const Navbar = () =>{
                         {/* ITEM 4 */}
                         <MenuItem>
                             <MenuItemLink>
-                                CONTACT ME
+                                CONTACTAME
                             </MenuItemLink>
                         </MenuItem>
                     </Menu>
