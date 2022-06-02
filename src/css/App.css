@@ -1,0 +1,38 @@
+.menu {
+    width: 100%;
+    position: fixed;
+}
+
+.App {
+    margin-top: 20%;
+    background-color: #cbc9a8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    padding: 20px 20px 20px 20px;
+}
+
+.card-body {
+    background-color: #4d769f;
+}
+
+.card-title {
+    text-align: center;
+    color: white;
+}
+
+.card-text {
+    text-align: justify;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.btn {
+    color: black;
+    border: #cbc9a8;
+}
